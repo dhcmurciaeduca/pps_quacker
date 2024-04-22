@@ -5,7 +5,7 @@
 Completa esta lista para llevar a Quacker al nivel que se merece
 
 ### TODO
-- [ ] Crear imagen de Docker
+
 
 - [ ] Versión con Docker-Compose (¡usando volúmenes! Los Quacks son las píldoras de información más valiosas de Internet)
 
@@ -18,3 +18,4 @@ Completa esta lista para llevar a Quacker al nivel que se merece
 - [x] Levantar con contenedor de Mongo
   - [x] Versión inicial sin variables de entorno
   - [x] Usando variables de entorno
+- [x] Crear imagen de Docker
