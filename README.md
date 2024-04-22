@@ -10,6 +10,10 @@ Actualmente sin mantenimiento debido al éxito de la competencia. Si quieres hac
 ## Instrucciones de uso
 Aplicación desarrollada en Python (v3.11) con Flask como dependencia principal.
 
+    *Crea el Entorno Virtual python3 -m venv nombre_del_entorno
+    *Activa con source nombre_del_entorno/bin/activate
+    *Instala las Dependencias: pip install -r requirements.txt
+
     python app.py
 
 Desplegará un servidor web en [http://127.0.0.1:5000](http://127.0.0.1:5000)
